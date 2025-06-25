@@ -1,5 +1,5 @@
 ---
-title: "Session 01 - The Kindleglow Test"
+title: "Pilot - The Kindleglow Test"
 draft: false
 ---
 
