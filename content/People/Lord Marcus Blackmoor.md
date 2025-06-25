@@ -1,6 +1,6 @@
 ---
 title: "Lord Marcus Blackmoor"
-draft: false
+draft: true
 ---
 
 ![[marcus-blackmoor.png]]
