@@ -1,6 +1,6 @@
 ---
 title: Blackmoor Manor
-draft: false
+draft: true
 ---
 
 ![[blackmoor-manor.png]]
