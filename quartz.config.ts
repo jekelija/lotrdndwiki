@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Dreamweaver",
+    pageTitle: "The Age of Men",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

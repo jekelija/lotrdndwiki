@@ -1,14 +1,13 @@
 ---
-title: Dreamweaver
+title: The Age of Men
 ---
-![[dreamweaver.png]]
 
-**Welcome to the Dreamweaver Wiki**
+![[title_page.jpg]]
 
-This wiki is your guide to the vast and enigmatic world of **Dreamweaver**, where the waking and dreaming realms collide. Here, you’ll find information on the factions, characters, and forces shaping this delicate balance.
+**Welcome to the Age of Men Wiki**
 
-The dream realm is as wondrous as it is dangerous, a place where the subconscious creates landscapes, entities, and challenges that defy the logic of the waking world. From the Dreamweavers Guild’s efforts to protect dreamers, to shadowy factions vying for power, the dreamscape is a stage for incredible stories and perilous adventures.
+This wiki is your guide to the vast world of Tolkien, set hundreds of years in the future from the events of the Lord of the Rings Trilogy.
 
-The dream realm is a place of infinite possibility, where every action shapes the narrative and every choice leaves a mark. Whether you’re uncovering secrets, facing malevolent forces, or simply navigating the surreal, your journey through **Dreamweaver** is just beginning.
+Remember, Tolkien himself changed his mind many times, and just like the movies are an adaptation of the book, this too is an adaptation. Not everything will be perfectly canon, but we will stick to the main points and intent of canon as best we can while still having fun with it.
 
-Dive in, dreamers, and beware: not all who wander the dreamscape awaken unchanged.
+"There's some good in this world, Mr. Frodo, and it's worth fighting for."
