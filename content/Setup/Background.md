@@ -46,6 +46,13 @@ There is concern among some parties that destruction of this ring would result i
 
 ---
 
+## Canon Notes
+
+Saruman, while powerful, was much less powerful than Sauron, and therefore any artefact of power he created would also be less powerful.
+But! All the Istar, Maiar, and most of the elves are gone, leaving this less powerful (hypothetical) artefact still the most powerful thing in the land.
+
+---
+
 ## The Call for Adventurers
 
 Various powers have recruited groups of adventurers to seek this **Chain of Power**.  
