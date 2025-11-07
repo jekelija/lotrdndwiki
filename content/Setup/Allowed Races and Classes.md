@@ -2,6 +2,8 @@ The tables below are a guideline of my thoughts. If you have a race or a class t
 
 Note if you pick a non-standard race/class, please let me know and we'll come up with a character sheet together along with different spells/modifiers you may have that are not part of D&D standard edition.
 
+**D&D Beyond Campaign Link: https://www.dndbeyond.com/campaigns/join/71669142341712069**
+
 | **Class**                        | **Fit in Middle-earth**     | **Notes / Adaptation**                                                                                                                                   |
 | -------------------------------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Fighter / Ranger / Barbarian** | ✅ Core archetypes          | Rangers are Dúnedain traditions; Fighters are men-at-arms. Barbarians could be wild Northmen.                                                            |
