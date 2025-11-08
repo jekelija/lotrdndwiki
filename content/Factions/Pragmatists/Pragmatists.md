@@ -34,7 +34,7 @@ If the Chain can rebuild a broken world, how can that be evil? Their downfall mi
 
 ## Patron
 
-- **Rhodan**, the current king of Gondor, who wishes to protect his people
+- **Rhodan**, the current king of Rohan, who wishes to protect his people
 
 ## Key figures
 
