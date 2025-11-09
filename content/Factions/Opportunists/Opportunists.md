@@ -9,7 +9,7 @@
 **Creed:** _Claim it for dominion or immortality._  
 **Hidden Vice:** _Straight villainy — but often charismatic and justified._
 
-The Opportunists see the **Chain of Power** as a tool for control, wealth, or immortality.  
+The Opportunists see the **Crown of Power** as a tool for control, wealth, or immortality.  
 They are conquerors, tyrants, and dreamers — but many genuinely believe that only through **rule** can chaos be contained.
 
 They are the dark mirror of the Pragmatists: where one would heal, the other would dominate.
@@ -26,7 +26,7 @@ Some claim divine mandate, others pure ambition, but all share a belief that **m
 ## Organization
 
 - **Headquarters:** The **Citadel of Iron**, deep within the Iron Hills.
-- **Symbol:** A black chain encircling a golden crown.
+- **Symbol:** A black crown encircling a golden crown.
 - **Structure:** Feudal, bound by pacts of loyalty and fear.
 - **Notable Practices:** Blood oaths, conquest trials, mercantile monopolies.
 

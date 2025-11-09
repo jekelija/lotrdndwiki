@@ -6,11 +6,11 @@
 
 ## Overview
 
-**Creed:** _Use the Chain for good — heal the land, rekindle wonder._  
-**Hidden Vice:** _Corruption by the Chain’s will; Saruman’s logic reborn._
+**Creed:** _Use the Crown for good — heal the land, rekindle wonder._  
+**Hidden Vice:** _Corruption by the Crown’s will; Saruman’s logic reborn._
 
 The Pragmatists believe that **power is a gift wasted if not used**.  
-Where others fear the Chain’s influence, they see a divine instrument — a chance to heal Middle-earth’s scars and restore its lost beauty.
+Where others fear the Crown’s influence, they see a divine instrument — a chance to heal Middle-earth’s scars and restore its lost beauty.
 
 They are not villains but **visionaries**, and it is precisely their nobility that makes them dangerous.
 
@@ -19,7 +19,7 @@ They are not villains but **visionaries**, and it is precisely their nobility th
 ## Philosophy
 
 To them, morality lies not in abstaining from power, but in **how** it’s used.  
-If the Chain can rebuild a broken world, how can that be evil? Their downfall mirrors Saruman’s — the belief that _they_ can resist corruption where others failed.
+If the Crown can rebuild a broken world, how can that be evil? Their downfall mirrors Saruman’s — the belief that _they_ can resist corruption where others failed.
 
 ---
 
@@ -38,7 +38,7 @@ If the Chain can rebuild a broken world, how can that be evil? Their downfall mi
 
 ## Key figures
 
-- **King Halmarion of Gondor Reborn**, reformer-king and would-be unifier.
+- **Steward-King Halmarion of Gondor Reborn**, reformer-king and would-be unifier.
 - **Scholar Bereneth**, an alchemist whose body glows faintly at night.
 
 ---

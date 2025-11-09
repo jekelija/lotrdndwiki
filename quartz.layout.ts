@@ -2,28 +2,22 @@ import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import { FileNode } from "./quartz/components/ExplorerNode"
 
-const thingsThatComeFirst = ["setup", "background"]
+const sorting = new Map<string, number>([
+  ["Setup", 0],
+  ["Story-Hook", 0],
+  ["History", 1],
+])
 const sortFn = (a: FileNode, b: FileNode) => {
-  if (thingsThatComeFirst.includes(a.name.toLowerCase())) {
-    return -1
-  } else if (thingsThatComeFirst.includes(b.name.toLowerCase())) {
-    return 1
-  }
-  if (
-    (a.children.length > 0 && b.children.length > 0) ||
-    (a.children.length === 0 && b.children.length === 0)
-  ) {
+  const aVal = (sorting.has(a.name) ? sorting.get(a.name) : 100) as number
+  const bVal = (sorting.has(b.name) ? sorting.get(b.name) : 100) as number
+
+  if (aVal == null && bVal == null) {
     return a.displayName.localeCompare(b.displayName, undefined, {
       numeric: true,
       sensitivity: "base",
     })
   }
-
-  if (a.children.length === 0 && b.children.length > 0) {
-    return 1
-  } else {
-    return -1
-  }
+  return aVal - bVal
 }
 
 // components shared across all pages

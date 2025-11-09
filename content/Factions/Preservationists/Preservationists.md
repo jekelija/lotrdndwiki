@@ -6,10 +6,10 @@
 
 ## Overview
 
-**Creed:** _Magic must endure; the Chain must be guarded, not used._  
+**Creed:** _Magic must endure; the Crown must be guarded, not used._  
 **Hidden Vice:** _Pride disguised as stewardship — “We know better than fate.”_
 
-The Preservationists see themselves as custodians of what remains of Middle-earth’s waning magic. They believe that if the **Chain of Power** is destroyed, all enchantment will vanish forever — the final fading of the world.
+The Preservationists see themselves as custodians of what remains of Middle-earth’s waning magic. They believe that if the **Crown of Power** is destroyed, all enchantment will vanish forever — the final fading of the world.
 
 Where others see relics, they see living memory. Their members are historians, hermits, archivists, and reclusive mages who seek to **preserve** magic through secrecy and guardianship.
 
